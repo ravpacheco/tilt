@@ -9,7 +9,14 @@ I changed the project name only to make a joke with 'tilt' word.
 
 ### Categories
 
+* [Java](#java)
 * [Win Commands](#wincommands)
+
+---
+
+### Java
+
+- [Java cast primitive arrays and primitive wrapper arrays](/java/array-utils-to-cast-array.md)
 
 ---
 
