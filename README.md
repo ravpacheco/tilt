@@ -9,9 +9,18 @@ I changed the project name only to make a joke with 'tilt' word.
 
 ### Categories
 
+* [Android](#android)
 * [Java](#java)
 * [Markdown](#markdown)
 * [Win Commands](#wincommands)
+* [Tools and frameworks misc](#toolsandframeworksmisc)
+
+---
+
+### Android
+
+- [How to include a deep link in your Android App](/android/how-to-include-deep-link.md)
+
 ---
 
 ### Java
