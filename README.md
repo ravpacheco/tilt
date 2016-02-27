@@ -26,6 +26,12 @@ I changed the project name only to make a joke with 'tilt' word.
 
 ---
 
+### Tools and frameworks misc
+
+- [Index](/tools_and_frameworks/index.md)
+
+---
+
 ### WinCommands
 
 - [Manage service state](/wincommands/manage-service-state.md)
