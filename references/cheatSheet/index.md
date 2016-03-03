@@ -1,0 +1,2 @@
+- [DevopsTools](https://xebialabs.com/periodic-table-of-devops-tools/)
+- [Ultimate table DevopsTools](https://xebialabs.com/the-ultimate-devops-tool-chest/)

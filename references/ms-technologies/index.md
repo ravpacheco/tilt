@@ -6,3 +6,4 @@
 - [MSVA Trainings](http://www.microsoftvirtualacademy.com/)
 - [Technet Tutorials](http://technet.microsoft.com/pt-BR/)
 - [Windows Dev Tutorials](https://dev.windows.com/)
+- [Online Test Runner from MS](https://apisandbox.msdn.microsoft.com/?language=csharp&service=office365)
