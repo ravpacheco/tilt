@@ -1,0 +1,8 @@
+- [ASP.NET Home](http://www.asp.net/)
+- [MSDN](http://msdn.microsoft.com/)
+- [MSDN Develper Centers](http://msdn.microsoft.com/developer-centers-msdn)
+- [Code Samples](http://code.msdn.microsoft.com/)
+- [C9 Videos](http://channel9.msdn.com/)
+- [MSVA Trainings](http://www.microsoftvirtualacademy.com/)
+- [Technet Tutorials](http://technet.microsoft.com/pt-BR/)
+- [Windows Dev Tutorials](https://dev.windows.com/)
