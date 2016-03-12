@@ -36,6 +36,13 @@ I changed the project name only to make a joke with 'tilt' word.
 
 ---
 
+### LaTeX
+
+- [Getting starter your windows enviroment](/latex/get-starter-windows-enviroment.md)
+
+
+---
+
 ### Markdown
 
 - [Markdown cheat sheet](/markdown/markdown-cheat-sheet.md)
