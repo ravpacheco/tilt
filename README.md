@@ -10,10 +10,15 @@ I changed the project name only to make a joke with 'tilt' word.
 ### Categories
 
 * [Android](#android)
+* [C*#*](#c*#*)
+* [Devops](#devops)
 * [Java](#java)
+* [LaTeX](#latex)
 * [Markdown](#markdown)
-* [Win Commands](#wincommands)
+* [NodeJs](#nodejs)
+* [References](#references)
 * [Tools and frameworks misc](#toolsandframeworksmisc)
+* [Win Commands](#wincommands)
 
 ---
 
@@ -29,6 +34,11 @@ I changed the project name only to make a joke with 'tilt' word.
 
 ---
 
+### Devops
+
+- [How to generate a icon with status build on TeamCity](/devops/teamcity/generate-status-build-widget.md)
+
+---
 
 ### Java
 
