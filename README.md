@@ -12,6 +12,7 @@ I changed the project name only to make a joke with 'tilt' word.
 * [Android](#android)
 * [C*#*](#c*#*)
 * [Devops](#devops)
+* [GIT](#git)
 * [Java](#java)
 * [LaTeX](#latex)
 * [Markdown](#markdown)
@@ -37,6 +38,12 @@ I changed the project name only to make a joke with 'tilt' word.
 ### Devops
 
 - [How to generate a icon with status build on TeamCity](/devops/teamcity/generate-status-build-widget.md)
+
+---
+
+### GIT
+
+- [How to remove trash files from repository](/git/remove-trash-files.md)
 
 ---
 
