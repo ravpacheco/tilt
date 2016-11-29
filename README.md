@@ -11,6 +11,7 @@ I changed the project name only to make a joke with 'tilt' word.
 
 * [Android](#android)
 * [C*#*](#c*#*)
+* [Chocolatey](#chocolatey)
 * [Devops](#devops)
 * [GIT](#git)
 * [Java](#java)
@@ -32,6 +33,12 @@ I changed the project name only to make a joke with 'tilt' word.
 ### C*#*
 
 - [How to create my nuget package](/c#/create-a-nuget-package.md)
+
+---
+
+### Chocolatey
+
+- [Usefull commands](/chocolatey/usefull-commands.md)
 
 ---
 
