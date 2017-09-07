@@ -1,5 +1,14 @@
 # Usefull commands with chocolatey
 
+## How to install (or uninstall) packages
+```shel
+choco install <package-name>
+choco uninstall <package-name>
+cinst <package-name>
+cuninst <package-name>
+```
+
+
 ## How to list only a local chocolatey packages
 
 ```shel
