@@ -1,6 +1,6 @@
-# Tools or frameworks index
+# Tools index
 
-### Data science and analysis
+### Data science and analysis useful tools
 
 - [R lang](https://www.r-project.org/)
 - [SciPy](http://www.scipy.org/)
