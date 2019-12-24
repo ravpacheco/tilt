@@ -10,7 +10,7 @@ I changed the project name only to make a joke with the portuguese '[tilt](https
 ### Categories
 
 * [Android](#android)
-* [C*#*](#c*#*)
+* [C#](#csharp)
 * [Chocolatey](#chocolatey)
 * [Devops](#devops)
 * [GIT](#git)
@@ -19,7 +19,8 @@ I changed the project name only to make a joke with the portuguese '[tilt](https
 * [Markdown](#markdown)
 * [NodeJs](#nodejs)
 * [References](#references)
-* [Tools and frameworks misc](#toolsandframeworksmisc)
+* [Tools](#tools)
+* [Visual Studio Code](#vscode)
 * [Win Commands](#wincommands)
 
 ---
@@ -30,9 +31,9 @@ I changed the project name only to make a joke with the portuguese '[tilt](https
 
 ---
 
-### C*#*
+### CSharp
 
-- [How to create my nuget package](/c#/create-a-nuget-package.md)
+- [How to create my nuget package](/csharp/create-a-nuget-package.md)
 
 ---
 
@@ -73,9 +74,15 @@ I changed the project name only to make a joke with the portuguese '[tilt](https
 
 ---
 
-### Tools and frameworks misc
+### Tools
 
-- [Index](/tools_and_frameworks/index.md)
+- [Index](/tools/index.md)
+
+---
+
+### VS Code
+
+- [Useful Extensions](/vscode/usefulExtensions.md)
 
 ---
 
