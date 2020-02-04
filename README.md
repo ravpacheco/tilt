@@ -21,6 +21,7 @@ I changed the project name only to make a joke with the portuguese '[tilt](https
 * [References](#references)
 * [Tools](#tools)
 * [Visual Studio Code](#vs-code)
+* [MAC Commands](#maccommands)
 * [Win Commands](#wincommands)
 
 ---
@@ -83,6 +84,12 @@ I changed the project name only to make a joke with the portuguese '[tilt](https
 ### VS Code
 
 - [Useful Extensions](/vscode/usefulExtensions.md)
+
+---
+
+### MAC Commands
+
+- [Useful commands](/maccommands/usefulCommands.md)
 
 ---
 
