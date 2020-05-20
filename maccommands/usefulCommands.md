@@ -23,3 +23,7 @@
 
 `mkdir -p` (com subdiretorios)  
 `mkidr` (precisa todo o caminho existir)  
+
+* Zip a file with pass
+
+`zip -er output-file-name.zip directory-source-path`
